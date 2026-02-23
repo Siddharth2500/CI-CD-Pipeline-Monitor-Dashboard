@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [CI/CD Pipeline Monitor & Dashboard](#project-1-cicd-pipeline-monitor--dashboard)
 <img width="1589" height="1181" alt="image" src="https://github.com/user-attachments/assets/62d80d24-b514-4eb5-a73d-7569a84cde7c" />
----
+-----
 ### Description
 A real-time monitoring system for CI/CD pipelines that tracks build status, deployment metrics, and generates visual reports. Supports multiple CI/CD platforms (Jenkins, GitLab CI, GitHub Actions).
 
