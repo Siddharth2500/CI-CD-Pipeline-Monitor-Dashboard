@@ -33,7 +33,7 @@ python cicd_monitor.py
 monitor = CICDMonitor()
 monitor.add_pipeline("Jenkins", "http://jenkins.example.com")
 monitor.start_monitoring()
-```````````
+````````````
 
 ### Output
 Generates real-time dashboard showing:
