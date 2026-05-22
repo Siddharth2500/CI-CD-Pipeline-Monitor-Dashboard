@@ -25,7 +25,7 @@ A real-time monitoring system for CI/CD pipelines that tracks build status, depl
 ```bash
 pip install flask matplotlib pandas requests sqlite3
 python cicd_monitor.py
-```
+``````
 
 ### Usage
 ```python
